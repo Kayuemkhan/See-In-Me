@@ -1,0 +1,6 @@
+0 detol
+1 handwash
+2 harpic
+3 ice-cool
+4 pepsodent
+5 savlon
